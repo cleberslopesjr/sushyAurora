@@ -1,0 +1,22 @@
+Joel.
+
+Over Cargas (MDF-e, CT-e, CTOS)
+Over MEI (PDV) não emite NFs.
+Over Food (recebimento de pedidos do delivery, não emitoe NFs.
+Over Pedidos
+
+Verções complementares:
+Over lith (controle de estoque, cadastros de clientes, e NF de entrada, NFs de vendas eletrônicas)
+Over Plus (100% fiscal. Controle de estoque através da emissão de NFs. Consciliação bancária. Módulos: NF-e, Compras, Estoque, Clientes e fornecedores, contas a receber, contas a pagar, livro caixa, orçamento)
+
+Módulos adicionais:
+Over Service. Móculo para lançamento de módulo de serviço;
+Over Pedidos. App para smartfones. Não para serviços;
+Over Food. Delivey.
+
+
+Sushi Aurora.
+Over MEI e Over Food.
+Saindo do MEI vai adquirir: 
+
+Principais concorrentes?
